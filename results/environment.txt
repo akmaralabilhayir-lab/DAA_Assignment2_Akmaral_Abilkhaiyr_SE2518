@@ -1,0 +1,10 @@
+Recorded UTC: 2026-10-04T07:44:04.365370Z
+Java: 25.0.1+8-27
+VM: OpenJDK 64-Bit Server VM
+OS: Windows 11 amd64
+Available processors: 12
+Seed: 42
+Warm-ups per case: 10
+Measured runs per case: 5
+Timing includes instrumentation; setup is excluded except W4 and bonus construction.
+W4 sorted-output validation is outside the timed section.
